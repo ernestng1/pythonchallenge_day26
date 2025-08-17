@@ -10,6 +10,10 @@
 > [!TIP]
 > List and dictionary comprehension can help to simplify codes related to conditional statements, allowing one to optimise their code! I found it incredibly helpful to first write down the conditional statements first like how I normally would, visualising it and then simplifying it into a line of code. 
 
+<div width = 150px>
+  <img src="nato_alphabets.gif"/>
+</div>
+
 <h2>Why am I doing this?</h2>
 <p>I have learned python before in school but I hope to revisit some of the python concepts that I may have forgotten and at the same time delve further into python, especially in the field of data science and visualisation.</p>
 

@@ -1,5 +1,5 @@
 <h1>Day 26 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 626 challenge, I created a system that takes in a word and convert it to a list of words based on NATO phonetic alphabet, so that one can clearly spell out words to another, alphabet by alphabet. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<p>For the Day 26 challenge, I created a system that takes in a word and convert it to a list of words based on NATO phonetic alphabet, so that one can clearly spell out words to another, alphabet by alphabet. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
   <li>List Comprehension</li>
   <li>Dictionary Comprehension</li>
